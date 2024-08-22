@@ -1,0 +1,10 @@
+{
+    "click_wait_time": 1,
+    "taskbar_height": 70,
+    "window_width": 816,
+    "window_height": 638,
+    "log_file_path": "afk_script.log",
+    "max_bytes": 5242880, 
+    "backup_count": 5,
+    "windows_per_batch": 1
+}
